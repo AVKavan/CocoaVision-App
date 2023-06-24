@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cocoa-disease-classifier",
+  "private_key_id": "8ac17751dbbb4f122542c43cfbd7dacf7c56721c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDSbbMGtTOG1z6D\nsaZBtZ7pQjNC5gAOFrmt9RjsyT4zmeOdU7Y1lYs0MHtRWufYtUwVGAsv20C7l8oM\nEBvJTKsAAPVn00Bynwo7HBLdvv48oxosrJicaA/zCQvbfasI64VVSRYHolW1BDzb\nGnNUDQlTSAp5VaAomhmcrgBp0h1IZ6LFbt77feaqzB4CPQrwhFqWifGJzk0BF/3Z\npyF06MLoISjahS7qS1R9gXa/hwrJ021dFlqpbaLf4ezQ2fdQOFrtpMzBhXzbkS3k\n+4E2T9sAZUBZ38oJxv/Y4essBoFbWKxlDM6bTZHfXIIDjzCNxuNUDNARBdnZ94zF\n4aXfxQ2hAgMBAAECggEAL3VjyNnBuQHfHMsKdOvuHuwaDRa8APFxp7DtUewSTgeB\nXRiF8gBcAKWFjoPq4caD1gcR8NVpfFWf0UgpyCT1NR9COcwcjy1c3Jd4js/2XX0o\nmFZF5hKXNEhARxzI4A5kSCefYxHi9Bw0UHMe+yAkkAahrBtab4XPzHU27SbhCVTD\njQMh1KzzWDi9gqtrWYx/txUVc3zYUNyCdq/arSrZVRmnTTtCIkHHUByW0Nj4C5cc\n1VZuvZCOHjc+71oEOanSs9vf1o7qDwQsGhqytpa5PioPbOU10/CrixhROBQHTb6U\nph/Ie+y/kCLlXal/fnS/PrRMzNXmIEA2UDwvqSQTBQKBgQDxO1fUeuVxMsPlkuPP\nWOKp3pJyH55A5ZtnmOAl+QJ3R58DB7EWGPy5OKsPEk/Tc/SUpuXohObvpIQoXy4t\nT9j9mZB2XbQPQssdJO50jwnW9tsxEtRsTQhzgHVv02ibl6X3RPUrRIT97Oi3A7Sk\nSWB1Eb/bTAoZt57nGcofERfqBQKBgQDfT5kIijQDHtMrjg2yRK9suDZ2npIZJUeb\nzhI8KzgVfqgze3LuRFEIz14UwlG9LphVote8mKi9NBO1okaQ/F3RF0tPvp4CAvUh\nSBEoSndgODpxduEgvi+tYflGCIEEzRm0vr9YEnUExToEsNWYmGoXIehNSM9O+y0M\nNxVgXD177QKBgQDeCjRexLwaRJLh5iHAQd1oZBDB8O52Z6FyatmuuhQV/JuVa2gJ\nofhE+K8jEUTeqjWu+ixWqLX0UKbAjlNvq7ZcPxQkjz1kaqOQcOT37o0tC01YTy+t\ne/5SaiQuSRZZWO2Puy47pDcRjxXpFwUXzt51A2BoFwaZA1XE/Az6KX6sjQKBgHzz\n7h6ALpBcbC7f4rwQgNRl01vWaMuXN5Vv3nY6fLxSTc3Y0ruOEIXMeslE3jXsX6Lz\nZqIKDcko3apxreisvdYkoahycbmQbBd+WtNfr6JwdAtPSLNomAb9Xl0YnxDPrwWb\nAjhGw6Gytj8vr6UeC6b7+x9bkVyRYWiHXfe4RVMVAoGBAKnOvHbrOvoCRnRYrpzf\nPjVNZr6qMRZGIoOQc04NE1xxeAEEFPVlns28p3xPXYxTvZKlE1dh3wlVeIeyuJjS\n1eBbJE4MM4uHWQOe08YTVvOKTvLRJGh29XS729Swfmbe1EN6SKeb9BzofKFAuCJa\nuZFz5aEaEt+S+vGj5hieeaPK\n-----END PRIVATE KEY-----\n",
+  "client_email": "cocoa-detect@cocoa-disease-classifier.iam.gserviceaccount.com",
+  "client_id": "114941681366773447399",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cocoa-detect%40cocoa-disease-classifier.iam.gserviceaccount.com"
+}
