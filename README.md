@@ -17,6 +17,12 @@ It can be installed by
 
 
 ## App Interface images
-- Hompage
+#### Hompage
 <img src="https://github.com/AVKavan/Cocoa_vision/assets/107805278/13df6faf-e478-4356-abfd-a9ae62d2fb62" width="250" height="500" />
 <img src="https://github.com/AVKavan/Cocoa_vision/assets/107805278/a3e2412c-5bbc-4717-bad8-fc05d0771cc7" width="250" height="500" />
+
+#### Disease detection 
+     - photos can either be clicked or uploaded via gallery.
+<img src="https://github.com/AVKavan/WeatherApp-Flutter/assets/107805278/aaa3eb88-8ddc-4039-ac8d-9f456855dc37" width="250" height="500" />
+     
+     
